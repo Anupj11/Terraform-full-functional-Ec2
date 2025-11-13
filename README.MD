@@ -17,19 +17,19 @@ Infrastructure as Code (IaC) using Terraform
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 Initialize Terraform
-  terraform init
+  - terraform init
 
 Validate configuration
-  terraform validate
+  - terraform validate
 
 Preview the changes
-  terraform plan
+  - terraform plan
 
 Apply and create infrastructure
-  terraform apply -auto-approve
+  - terraform apply -auto-approve
 
 Destroy the EC2 instance
-  terraform destroy -auto-approve
+  - terraform destroy -auto-approve
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -51,8 +51,8 @@ Real-world Terraform workflow
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.
 
  - Author :
-Anup Jadhav
-GitHub: https://github.com/Anupj11
+Anup Jadhav |
+GitHub: https://github.com/Anupj11 |
 LinkedIn: https://www.linkedin.com/in/anup-jadhav/
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
