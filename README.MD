@@ -16,20 +16,20 @@ Infrastructure as Code (IaC) using Terraform
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-     - Initialize Terraform
-terraform init
+Initialize Terraform
+  terraform init
 
-     - Validate configuration
-terraform validate
+Validate configuration
+  terraform validate
 
-     - Preview the changes
-terraform plan
+Preview the changes
+  terraform plan
 
-- Apply and create infrastructure
-     terraform apply -auto-approve
+Apply and create infrastructure
+  terraform apply -auto-approve
 
-- Destroy the EC2 instance
-     terraform destroy -auto-approve
+Destroy the EC2 instance
+  terraform destroy -auto-approve
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
